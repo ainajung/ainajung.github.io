@@ -11,7 +11,10 @@ const Projects = () => {
         My{" "} <span className='blue-gradient_text font-semibold drop-shadow'>Projects</span>
       </h1>
 
-      <p className='text-slate-500 mt-2 leading-relaxed'>HelloblahHelloblloblah</p>
+      <p className='text-slate-500 mt-2 leading-relaxed'>
+        These are my projects so far. If you come across something that piques your interest, feel free to
+        explore the codebase.
+      </p>
 
       <div className='flex flex-wrap my-20 gap-16'>
         {projects.map((project) => (

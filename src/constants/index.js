@@ -140,21 +140,21 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'DL Aus Group',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
+        description: 'Developed a web application that schedule employees and manage their info and invoices.',
         link: 'https://github.com/adrianhajdin/pricewise',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Sushi Place',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
+        description: 'Created a website with JavaScript and Css.',
         link: 'https://github.com/ainajung/Sushi-Place',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Portfolio site',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        description: 'Designed and built a web responsive application with 3d Models.',
+        link: 'https://github.com/ainajung/Main-portfolio-site',
     }
 ];
