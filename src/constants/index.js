@@ -155,6 +155,6 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Portfolio site',
         description: 'Designed and built a web responsive application with 3d Models.',
-        link: 'https://github.com/ainajung/Main-portfolio-site',
+        link: 'https://github.com/ainajung/ainajung.github.io',
     }
 ];
