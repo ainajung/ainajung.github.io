@@ -58,8 +58,8 @@ I have carefully curated the visual style and interactivity to align with the mo
 ## **Demo Preview**
 
 Here’s a glimpse of the project:  
-![Project image](./assets/images/home.png)
-![Project image](./assets/images/About.png)
+![Project image](./src/assets/images/home.png)
+![Project image](./src/assets/images/About.png)
 
 
 ---
