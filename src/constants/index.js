@@ -141,7 +141,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'DL Aus Group',
         description: 'Developed a web application that schedule employees and manage their info and invoices.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://source.cloud.google.com/mystic-hull-418201/DL_Project/+/DL-FrontEnd:',
     },
     {
         iconUrl: threads,
