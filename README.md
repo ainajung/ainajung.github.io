@@ -73,10 +73,4 @@ Here’s a glimpse of the project:
 
 ---
 
-## **How to Run the Project**
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/3d-portfolio-site.git
-
 
